@@ -1,5 +1,8 @@
-*** Hi there 👋
-** Lucas Hernández Abreu
+* Lucas Hernández Abreu
+Hi, I'm a Spanish computer engineer with passion about low level programming and building everything I can from scratch.
+
+* Working on
+**** TODO RUCID (Rust Unified Computer Image and Data-Processing)
 
 <!--
 **lucashdez/lucashdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
