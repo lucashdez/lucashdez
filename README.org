@@ -2,19 +2,13 @@
 Hi, I'm a Spanish computer engineer with passion about low level programming and building everything I can from scratch.
 
 * Working on
-**** TODO RUCID (Rust Unified Computer Image and Data-Processing)
+- [ ] RUCID (Rust Unified Computer Image and Data-Processing): a port to RUST from my Bachelor's Degree Final Project
+- [ ] lhedit: an editor written from scratch with nice features (tree-sitter support, virtual whitespace, function signatures without lsp...)
+- [ ] portfolio.
+* Currently learning
+- Rust systems programming
+- Rust web programming from scratch
 
-<!--
-**lucashdez/lucashdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Bachelor's degree rep
+[[https://github.com/ramosdeflores/TFG-pipeExec/tree/l-dev][link]]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
