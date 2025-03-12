@@ -10,5 +10,5 @@ Hi, I'm a Spanish computer engineer with passion about low level programming and
 - Zig web programming from scratch
 
 # Bachelor's degree  TFG rep
-[[https://github.com/ramosdeflores/TFG-pipeExec/tree/l-dev][link]]
+[LUCID](https://github.com/ramosdeflores/TFG-pipeExec/tree/l-dev)
 
